@@ -71,6 +71,10 @@ POST /upload → Upload resume (PDF)
 
 POST /analyze → Get AI analysis result
 
+👨‍💻 Author
+[Hrishabh Patle]
+Made with ❤️ using Spring Boot & OpenAI
+
 
 📬 API Endpoints
 
