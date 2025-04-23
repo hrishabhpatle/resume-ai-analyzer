@@ -79,5 +79,7 @@ Made with ❤️ using Spring Boot & OpenAI
 📬 API Endpoints
 
 Method	Endpoint	Description
+
 POST	/upload	Upload resume PDF
+
 POST	/analyze	Analyze uploaded resume
